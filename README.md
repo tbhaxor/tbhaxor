@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/tbhaxor](https://github.com/tbhaxor)
 
-- 📝 I regularly write articles on [https://tbhaxor.com](https://tbhaxor.com)
+- 📝 I regularly write articles on [https://tbhaxor.com](https://tbhaxor.com) related to _infosec_, _maths_, _physics_ and other comp-sci topics
 
 - 💬 Ask me about **computer science, maths and physics**
 
