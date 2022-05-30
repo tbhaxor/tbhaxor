@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gurkirat Singh (aka tbhaxor)</h1>
 <h3 align="center">Yet another CS grad working on backend techstack to fund his research</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tbhaxor&label=Profile%20views&color=0e75b6&style=flat" alt="tbhaxor" />  <a href="https://twitter.com/tbhaxor" target="blank"><img src="https://img.shields.io/twitter/follow/tbhaxor?logo=twitter&style=flat" alt="tbhaxor" /></a> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=tbhaxor&label=Profile%20views&color=0e75b6&style=flat" alt="tbhaxor" /> &nbsp;&nbsp;  <a href="https://twitter.com/tbhaxor" target="blank">  <img src="https://img.shields.io/twitter/follow/tbhaxor?logo=twitter&style=flat" alt="tbhaxor" /></a> &nbsp;&nbsp; <a href="https://www.reddit.com/user/tbhaxor" target="_blank"> <img alt="Reddit User Karma" src="https://img.shields.io/reddit/user-karma/combined/tbhaxor"> </a> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tbhaxor" alt="tbhaxor" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tbhaxor" alt="tbhaxor" /></a> </p>
 
 
 
