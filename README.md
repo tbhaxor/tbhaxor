@@ -38,10 +38,7 @@
 
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tbhaxor&show_icons=true" alt="tbhaxor" />
-  
-  
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tbhaxor&" alt="tbhaxor" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tbhaxor&show_icons=true" alt="tbhaxor" /><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tbhaxor&" alt="tbhaxor" />
 </p>
 
 <p align="center"></p>
