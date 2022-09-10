@@ -35,6 +35,10 @@
 
 ## Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understand and Interact with OpenWRT](https://tbhaxor.com/understand-and-interact-with-openwrt/)
+- [Creating Honeypot Access Points using Hostapd](https://tbhaxor.com/create-fake-hostspots-using-hostapd/)
+- [Preferred Network Lists in Detail](https://tbhaxor.com/recon-preferred-network-list-wifi/)
+- [WiFi Traffic Reconnaissance using Aircrack-ng Suite](https://tbhaxor.com/wifi-traffic-recon-using-aircrack/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Languages and Tools:</h3>
