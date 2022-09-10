@@ -23,7 +23,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](Github)
 
-- 📝 I regularly write articles on [https://tbhaxor.com related to infosec, maths, physics and other comp-sci topics](https://tbhaxor.com related to infosec, maths, physics and other comp-sci topics)
+- 📝 I regularly write articles on https://tbhaxor.com related to _infosec_, _maths_, _physics_ and _other computer science_ topics
 
 - 💬 Ask me about **computer science, maths and physics**
 
