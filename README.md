@@ -34,10 +34,10 @@
 
 ## Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Crack Pre-Shared Key of WPA/WPA2 from Live Network](https://tbhaxor.com/cracking-wpa-psk-using-aircrack/)
 - [Break into the WiFi Network and Interact with Services](https://tbhaxor.com/pivot-through-protected-wifi-network/)
 - [Decrypt WEP Traffic using Bruteforce with Insufficient IVs](https://tbhaxor.com/decrypt-wep-traffic-with-insufficient-ivs/)
 - [Understand and Interact with OpenWRT](https://tbhaxor.com/understand-and-interact-with-openwrt/)
-- [Creating Honeypot Access Points using Hostapd](https://tbhaxor.com/create-fake-hostspots-using-hostapd/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Languages and Tools:</h3>
