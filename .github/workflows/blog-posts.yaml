@@ -15,3 +15,5 @@ jobs:
               with: 
                 max_post_count: "4"
                 feed_list: "https://tbhaxor.com/rss"
+                committer_username: tbhaxor
+                committer_email: no_reply@tbhaxor.com
