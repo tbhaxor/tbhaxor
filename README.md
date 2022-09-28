@@ -34,10 +34,10 @@
 
 ## Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Find Hidden Network Backdoor in WiFi Firmware](https://tbhaxor.com/find-hidden-network-backdoor-in-wifi-firmware/)
 - [Steal WiFi Login for Enterprise Networks](https://tbhaxor.com/steal-credentials-for-enterprise-wifi-networks/)
 - [Crack WPA2-PSK from Probing Clients](https://tbhaxor.com/crack-wpa-psk-from-probing-clients-without-access-point/)
 - [Crack Pre-Shared Key of WPA/WPA2 from Live Network](https://tbhaxor.com/cracking-wpa-psk-using-aircrack/)
-- [Break into the WiFi Network and Interact with Services](https://tbhaxor.com/pivot-through-protected-wifi-network/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Languages and Tools:</h3>
