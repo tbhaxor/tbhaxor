@@ -34,10 +34,10 @@
 
 ## Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Pivoting Over Challenge Based Enterprise WiFi Network](https://tbhaxor.com/pivoting-over-peap-mschapv2-wifi-network/)
 - [Pivoting Over TTLS-PAP WPA Enterprise Networks](https://tbhaxor.com/pivoting-over-ttls-pap-wifi-network/)
 - [Evil Twin Enterprise WiFi Network using Hostapd-Mana](https://tbhaxor.com/evil-twin-wifi-network-using-hostapd-mana/)
 - [Find Hidden Network Backdoor in WiFi Firmware](https://tbhaxor.com/find-hidden-network-backdoor-in-wifi-firmware/)
-- [Steal WiFi Login for Enterprise Networks](https://tbhaxor.com/steal-credentials-for-enterprise-wifi-networks/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Languages and Tools:</h3>
