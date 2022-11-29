@@ -34,10 +34,10 @@
 
 ## Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Frequency Bands in Wi-Fi Networks](https://tbhaxor.com/frequency-bands-in-wifi/)
 - [Introduction to Wireless Networking](https://tbhaxor.com/introduction-to-wireless-networking/)
 - [Evil Twin with Karma Attack in Enterprise WiFi Network](https://tbhaxor.com/evil-twin-with-karma-attack-using-eaphammer/)
 - [Pivoting Over Challenge Based Enterprise WiFi Network](https://tbhaxor.com/pivoting-over-peap-mschapv2-wifi-network/)
-- [Pivoting Over TTLS-PAP WPA Enterprise Networks](https://tbhaxor.com/pivoting-over-ttls-pap-wifi-network/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Languages and Tools:</h3>
