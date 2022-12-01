@@ -34,10 +34,10 @@
 
 ## Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [Understand MAC Header Format in Detail](https://tbhaxor.com/mac-header-format-in-detail/)
 - [Frequency Bands in Wi-Fi Networks](https://tbhaxor.com/frequency-bands-in-wifi/)
 - [Introduction to Wireless Networking](https://tbhaxor.com/introduction-to-wireless-networking/)
 - [Evil Twin with Karma Attack in Enterprise WiFi Network](https://tbhaxor.com/evil-twin-with-karma-attack-using-eaphammer/)
-- [Pivoting Over Challenge Based Enterprise WiFi Network](https://tbhaxor.com/pivoting-over-peap-mschapv2-wifi-network/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Languages and Tools:</h3>
