@@ -14,6 +14,6 @@ jobs:
             - uses: gautamkrishnar/blog-post-workflow@master
               with: 
                 max_post_count: "4"
-                feed_list: "https://tbhaxor.com/rss"
+                feed_list: "https://tbhaxor.com/rss/"
                 committer_username: tbhaxor
                 committer_email: tbhaxor@gmail.com
