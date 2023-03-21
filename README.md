@@ -28,7 +28,7 @@
 
 - 📫 How to reach me **tbhaxor@proton.me**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1EPqEk5yS1Ebws81fGcXA_Ygqmyo3Tjgr/view?usp=sharing](https://drive.google.com/file/d/1EPqEk5yS1Ebws81fGcXA_Ygqmyo3Tjgr/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1JqXOCGan3NvLu9O2YJ0P5f2yrf0_A-QQ/view?usp=share_link
 
 - ⚡ Fun fact **Randomness is the lack of knowledge about the initial states. As a result, nothing is random. Everything is predetermined.**
 
