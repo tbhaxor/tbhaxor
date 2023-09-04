@@ -20,13 +20,11 @@
 
 - 🤝 I’m looking for help with **frontend developers on my side projects**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/tbhaxor)
-
 - 📝 I regularly write articles on https://tbhaxor.com related to _infosec_, _maths_, _physics_ and _other computer science_ topics
 
 - 💬 Ask me about **computer science, maths and physics**
 
-- 📫 How to reach me **tbhaxor@proton.me**
+- 📫 How to reach me **tbhaxor@gmail.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1JqXOCGan3NvLu9O2YJ0P5f2yrf0_A-QQ/view?usp=share_link
 
