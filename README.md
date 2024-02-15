@@ -32,10 +32,10 @@
 
 ## Latest Blogs Posts
 <!-- BLOG-POST-LIST:START -->
+- [How are WLAN Infrastructures in Enterprises Secured?](https://tbhaxor.com/enterprise-wlan-security/)
 - [Difference between WPA and WPA2](https://tbhaxor.com/wpa-vs-wpa2/)
 - [Robust Security Network and Extended Authentication Protocol in Detail](https://tbhaxor.com/rsn-and-eap-in-detail/)
 - [WEP Encryption and Its Vulnerability in Detail](https://tbhaxor.com/wep-encryption-in-detail/)
-- [Wi-Fi Legacy Security Mechanisms](https://tbhaxor.com/wifi-legacy-security/)
 <!-- BLOG-POST-LIST:END -->
 
 <h2 align="left">Languages and Tools:</h3>
