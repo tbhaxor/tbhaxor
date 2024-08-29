@@ -43,16 +43,12 @@
 
 ## Contribution Statistics
 
-<table>
-  <tr>
-    <th>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tbhaxor&show_icons=true&theme=onedark&cache_seconds=10&locale=en&layout=compact" alt="tbhaxor" />
-    </th>
-    <th>
-      <img align="center" src="https://github-readme-stats.vercel.app/api?username=tbhaxor&show_icons=true&theme=onedark&cache_seconds=10&locale=en" alt="tbhaxor" />
-    </th>
-    <th>
-      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tbhaxor&theme=dark" alt="tbhaxor" />
-    </th>
-  </tr>
-</table>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tbhaxor&show_icons=true&theme=onedark&cache_seconds=10&locale=en&layout=compact" alt="tbhaxor" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tbhaxor&show_icons=true&theme=onedark&cache_seconds=10&locale=en" alt="tbhaxor" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tbhaxor&theme=dark" alt="tbhaxor" />
+</p>
