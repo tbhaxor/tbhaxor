@@ -24,7 +24,7 @@
 
 - 💬 Ask me about **computer science, maths and physics**
 
-- 📫 How to reach me **tbhaxor@gmail.com**
+- 📫 How to reach me **info@tbhaxor.com**
 
 - 📄 Know about my experiences https://drive.google.com/file/d/1JqXOCGan3NvLu9O2YJ0P5f2yrf0_A-QQ/view?usp=share_link
 
