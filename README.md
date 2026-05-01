@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **info@tbhaxor.com**
 
-- 👨‍💻 All of my projects are available at **[https://tbhaxor.com/about](https://tbhaxor.com/about)**
+<!-- - 👨‍💻 All of my projects are available at **[https://tbhaxor.com/about](https://tbhaxor.com/about)** -->
 
 - 📝 I regularly write articles on **[https://tbhaxor.com](https://tbhaxor.com)**
 
